@@ -8,4 +8,6 @@ No teste chamado de AssertionDemo, o browser encontra o link 'get', então clica
 
 ![Captura de tela de 2024-06-05 18-18-04](https://github.com/klausmerini/ProjectCypress/assets/109608171/a282b93d-a913-4a09-964d-06724e502a46)    
 
-![Captura de tela de 2024-06-05 18-18-15](https://github.com/klausmerini/ProjectCypress/assets/109608171/36f62cd6-5a4e-4c40-a215-cd083efe1a31)
+![Captura de tela de 2024-06-05 18-18-15](https://github.com/klausmerini/ProjectCypress/assets/109608171/36f62cd6-5a4e-4c40-a215-cd083efe1a31)    
+
+![Captura de tela de 2024-06-05 18-18-38](https://github.com/klausmerini/ProjectCypress/assets/109608171/aac4025b-728c-4f6b-b938-61236af5cf30)  
