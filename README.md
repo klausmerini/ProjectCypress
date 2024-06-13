@@ -15,7 +15,7 @@ No teste chamado de AssertionDemo, o browser encontra o link 'get', então clica
 
 ![Captura de tela de 2024-06-05 18-18-38](https://github.com/klausmerini/ProjectCypress/assets/109608171/aac4025b-728c-4f6b-b938-61236af5cf30)  
 
-
+![Captura de tela de 2024-06-13 20-06-03](https://github.com/klausmerini/ProjectCypress/assets/109608171/ea7a70f2-71ae-4ec5-b2b6-c0fa0cbb6ddb)
 
     Teste de Login utilizando o padrão de projeto POM :    
 
