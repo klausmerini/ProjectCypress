@@ -26,6 +26,6 @@ No teste chamado de AssertionDemo, o browser encontra o link 'get', então clica
 
 ![Captura de tela de 2024-06-13 20-07-03](https://github.com/klausmerini/ProjectCypress/assets/109608171/6ca038dd-e0a9-4701-9f05-002b45cdfa81)    
 
-    Um teste em que se escreve um texto em um arquivo criado :    
+    Um teste em que se escreve um texto em um arquivo criado chamado sample.txt, e lê um atributo de um arquivo json :    
 
 
