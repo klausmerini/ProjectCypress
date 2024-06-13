@@ -24,4 +24,8 @@ No teste chamado de AssertionDemo, o browser encontra o link 'get', então clica
 
 ![Captura de tela de 2024-06-13 19-50-59](https://github.com/klausmerini/ProjectCypress/assets/109608171/021e1d6c-6e9b-436a-a934-01bc88f149d7)
 
-![Captura de tela de 2024-06-13 20-07-03](https://github.com/klausmerini/ProjectCypress/assets/109608171/6ca038dd-e0a9-4701-9f05-002b45cdfa81)
+![Captura de tela de 2024-06-13 20-07-03](https://github.com/klausmerini/ProjectCypress/assets/109608171/6ca038dd-e0a9-4701-9f05-002b45cdfa81)    
+
+    Um teste em que se escreve um texto em um arquivo criado :    
+
+
