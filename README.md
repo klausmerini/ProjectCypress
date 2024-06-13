@@ -29,3 +29,4 @@ No teste chamado de AssertionDemo, o browser encontra o link 'get', então clica
     Um teste em que se escreve um texto em um arquivo criado chamado sample.txt, e lê um atributo de um arquivo json :    
 
 
+![Captura de tela de 2024-06-13 20-24-13](https://github.com/klausmerini/ProjectCypress/assets/109608171/4f54caf7-c538-4da8-b74e-4e044bccf462)
